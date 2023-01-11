@@ -1,6 +1,6 @@
 # Space-Shooter
 
-Shooter video games, also known as shooters, are a type of action video game 
+<p>Shooter video games, also known as shooters, are a type of action video game 
 in which the focus is almost entirely on defeating the character's enemies with the 
 weapons provided by the player. These weapons are typically firearms or other long-range weapons. Shooter games put the player's spatial awareness, reflexes, and speed 
 to the test in both single-player and networked multiplayer settings. Shooter games are 
@@ -13,4 +13,4 @@ have similar gameplay but are frequently classified by viewpoint. This includes 
 The game developed in this project is a fixed-screen shooter called Space Shooter. The 
 premise in Space Shooter is really simple: Your space piloting skills are the only thing 
 standing between the Earth and a dangerous alien invasion, which you must stop only 
-with the help of your loyal spaceship.
+with the help of your loyal spaceship.<p>
